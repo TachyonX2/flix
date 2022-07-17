@@ -1,0 +1,103 @@
+.container{background-image: url(Tachyon2/NET2.jpg);
+    color: white;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100vw;
+    height:500px;
+    border-bottom: 10px solid grey;
+    top: 0px;
+}
+.btn1{border:0px;
+    color: white;
+    background-color: red;
+    position: absolute;
+    top: 8px;
+    right: 2px;
+    width:130px;
+    height:40px;
+    font-size: 20px;
+}
+.section1{position: absolute;
+    left:0;
+    top: 35%;
+    width: 100%;
+    text-align: center;
+}
+span{font-size: 20px;}
+input{width: 350px;
+    height: 40px;
+}
+.btn2{border:0px;
+    color: white;
+    background-color: red;
+    width: 150px;
+    height: 40px;
+}
+.head2{ display:block;
+    color:white;
+    margin-left: 10px;
+    margin-top:0px;
+}
+.section2{top:0%;
+    background-color: black;
+    border-bottom: 10px solid grey;
+}
+img{position: relative;
+    top:0%;
+    left: 250px;
+    margin-bottom: 30px;
+}
+.section3{width: 100%;
+    top:0%;
+    background-color: black;
+    border-bottom: 10px solid grey;
+}
+.section4{top:0%;
+    background-color: black;
+    border-bottom: 15px solid grey;
+}
+.section5{color:white;
+    background-color: black;
+    border-bottom: 15px solid grey;
+}
+.head3{text-align: center;
+    display:block;
+    color:white;
+    margin-left: 10px;
+    margin-top:0px;
+}
+section{border: 1px solid grey;
+    padding: 20px 50px;
+    background-color: grey;
+}
+.p2{text-align: left;
+    font-size: 35px;
+    margin-top: 0px;
+    margin-left: 50px;
+}
+.input2{ margin-left: 250px;
+    margin-bottom: 100px;
+}
+.sec6{color:white;
+    background-color: black;
+    border-bottom: 15px solid black;
+ }
+ a{text-decoration: none; 
+    display: block;
+    margin-left:50px;
+    margin-bottom: 40px;
+}
+ .link1{float: left;
+    width: 40%;
+}
+@media only screen and (max-width:1000px){
+    body{
+        background:red;
+    }
+    img{position: relative;
+        top: 0%;
+        left: 0px;
+        margin-bottom:30px ;
+        overflow: hidden;
+    }
+}
